@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ctcoutai/static/css/main.46cdcefa.css",
+    "main.js": "/ctcoutai/static/js/main.a1030755.js",
+    "index.html": "/ctcoutai/index.html",
+    "main.46cdcefa.css.map": "/ctcoutai/static/css/main.46cdcefa.css.map",
+    "main.a1030755.js.map": "/ctcoutai/static/js/main.a1030755.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46cdcefa.css",
+    "static/js/main.a1030755.js"
+  ]
+}
