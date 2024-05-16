@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ctcoutai/static/css/main.46cdcefa.css",
-    "main.js": "/ctcoutai/static/js/main.a1030755.js",
+    "main.css": "/ctcoutai/static/css/main.32614c61.css",
+    "main.js": "/ctcoutai/static/js/main.2f1ae30d.js",
     "index.html": "/ctcoutai/index.html",
-    "main.46cdcefa.css.map": "/ctcoutai/static/css/main.46cdcefa.css.map",
-    "main.a1030755.js.map": "/ctcoutai/static/js/main.a1030755.js.map"
+    "main.32614c61.css.map": "/ctcoutai/static/css/main.32614c61.css.map",
+    "main.2f1ae30d.js.map": "/ctcoutai/static/js/main.2f1ae30d.js.map"
   },
   "entrypoints": [
-    "static/css/main.46cdcefa.css",
-    "static/js/main.a1030755.js"
+    "static/css/main.32614c61.css",
+    "static/js/main.2f1ae30d.js"
   ]
 }
